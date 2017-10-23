@@ -11,8 +11,8 @@ Das Repository enthält Tests, mit denen sie nach jedem Merge sicherstellen kön
 
 Die Tests können Sie mit Gradle oder in ihrer IDE starten. Um die Tests mit Gradle auszuführen, können Sie folgenden Aufruf verwenden:
 
-* macOs/Linux: `./gradlew tests`
-* Windows: `gradle.bat tests`
+* macOs/Linux: `./gradlew test`
+* Windows: `gradle.bat test`
 
 ## Hinweise:
 
